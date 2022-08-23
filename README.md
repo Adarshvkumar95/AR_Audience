@@ -3,7 +3,7 @@ An Augmented Reality environment with Human Virtual Agent Audience
 
 The Unity project consist of 3 scenes as of now. 
 
-=>Single person 
-=>Med Audience
-=>Max Audience
+=>Single person \n
+=>Med Audience \n
+=>Max Audience \n
 
