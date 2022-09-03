@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 87d2c2058b982284d821e8c4059e7569
+  - enabled: 1
+    path: Assets/Scenes/Med Audience.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Aftermed.unity
+    guid: 17cc056cb052e504dab1fcbe63511c22
+  - enabled: 1
+    path: Assets/Scenes/Single Person.unity
+    guid: e11c405a0b2a5cf46a230806fa83736f
+  - enabled: 1
+    path: Assets/Scenes/Aftersin.unity
+    guid: 625221eaaadc3a34aac6b4eaa2046f16
+  - enabled: 1
+    path: Assets/Scenes/Max Audience.unity
+    guid: 0585920b4fd3fd24c84dabf8c4152145
+  - enabled: 1
+    path: Assets/Scenes/Aftermax.unity
+    guid: 0f132cfcab5523147b24675673e070d2
+  - enabled: 1
+    path: Assets/Scenes/NotListening.unity
+    guid: 4b40c53569d37b54a9a45fa45b8a2960
+  - enabled: 1
+    path: Assets/Scenes/Lastscene.unity
+    guid: ae831e6e6e3b57a4782f5ac5795136fb
   m_configObjects: {}
